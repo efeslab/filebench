@@ -1,0 +1,1 @@
+export PATH=/home/takh/git-repos/filebench/install/bin:$PATH
